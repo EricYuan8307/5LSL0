@@ -6,6 +6,6 @@ Assignment1: Optimum Linear and Adaptive Filters, and Familiarisation with Pytor
 
 Assignment2: Nonlinear Models 
 
-Assignment3: (Variational) Autoencoder /n
+Assignment3: (Variational) Autoencoder
 
 Assignment4:
